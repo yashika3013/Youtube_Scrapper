@@ -18,12 +18,7 @@ A Python script to scrape YouTube video data such as views, upload date, and lik
     cd your-repository-name
     ```
 
-2. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Download the WebDriver for your browser and ensure it's in your PATH. For Chrome, you can download it from [here](https://sites.google.com/a/chromium.org/chromedriver/).
+2. Download the WebDriver for your browser and ensure it's in your PATH. For Chrome, you can download it from [here](https://sites.google.com/a/chromium.org/chromedriver/).
 
 ## Usage
 
